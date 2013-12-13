@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Profile Switcher</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="change_your_profile_key">Change Your Profile Key</string>
+    <string name="save">Save</string>
+    <string name="Profile_key">Profile Key</string>
+    <string name="Enter_Your_Profile_key">Enter Your Profile Key</string>
+    <string name="Confirm_Key">Confirm Key</string>
+    <string name="Continue">Continue</string>
+    <string name="info">( Change Key If You Want To Else Exit )</string>
+    <string name="hh">helow</string>
+
+</resources>
